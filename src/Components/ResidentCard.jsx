@@ -1,6 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import './styles/ResidentCard.css'
+import './styles/residentCard.css'
 
 const ResidentCard = ({url}) => {
 

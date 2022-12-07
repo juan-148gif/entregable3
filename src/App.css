@@ -6,7 +6,7 @@
     max-width: 1480px;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('./images/espacio2.jpg');
+    background-image: url('/images/espacio2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;

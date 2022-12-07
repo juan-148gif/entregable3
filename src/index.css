@@ -8,7 +8,7 @@
     margin: 0;
     font-family: 'Roboto',sans-serif;
     color: white;
-    background-image: url('./images/espacio2.jpg');
+    background-image: url('/images/espacio2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
